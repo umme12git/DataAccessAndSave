@@ -1,0 +1,16 @@
+C:\Users\unnip\repos\DataAccessAndSave\obj\Debug\net5.0\DataAccessAndSave.csproj.AssemblyReference.cache
+C:\Users\unnip\repos\DataAccessAndSave\obj\Debug\net5.0\DataAccessAndSave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unnip\repos\DataAccessAndSave\obj\Debug\net5.0\DataAccessAndSave.AssemblyInfoInputs.cache
+C:\Users\unnip\repos\DataAccessAndSave\obj\Debug\net5.0\DataAccessAndSave.AssemblyInfo.cs
+C:\Users\unnip\repos\DataAccessAndSave\obj\Debug\net5.0\DataAccessAndSave.csproj.CoreCompileInputs.cache
+C:\Users\unnip\repos\DataAccessAndSave\bin\Debug\net5.0\DataAccessAndSave.exe
+C:\Users\unnip\repos\DataAccessAndSave\bin\Debug\net5.0\DataAccessAndSave.deps.json
+C:\Users\unnip\repos\DataAccessAndSave\bin\Debug\net5.0\DataAccessAndSave.runtimeconfig.json
+C:\Users\unnip\repos\DataAccessAndSave\bin\Debug\net5.0\DataAccessAndSave.runtimeconfig.dev.json
+C:\Users\unnip\repos\DataAccessAndSave\bin\Debug\net5.0\DataAccessAndSave.dll
+C:\Users\unnip\repos\DataAccessAndSave\bin\Debug\net5.0\ref\DataAccessAndSave.dll
+C:\Users\unnip\repos\DataAccessAndSave\bin\Debug\net5.0\DataAccessAndSave.pdb
+C:\Users\unnip\repos\DataAccessAndSave\obj\Debug\net5.0\DataAccessAndSave.dll
+C:\Users\unnip\repos\DataAccessAndSave\obj\Debug\net5.0\ref\DataAccessAndSave.dll
+C:\Users\unnip\repos\DataAccessAndSave\obj\Debug\net5.0\DataAccessAndSave.pdb
+C:\Users\unnip\repos\DataAccessAndSave\obj\Debug\net5.0\DataAccessAndSave.genruntimeconfig.cache
